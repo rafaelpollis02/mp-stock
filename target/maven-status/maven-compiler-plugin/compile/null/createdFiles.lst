@@ -1,0 +1,8 @@
+br\com\repository\StockRepository.class
+br\com\domain\Stock.class
+META-INF\panache-archive.marker
+br\com\exception\MessageError.class
+br\com\exception\BusinessException.class
+br\com\exception\GeneralException.class
+br\com\service\StockService.class
+br\com\resource\StockResource.class
